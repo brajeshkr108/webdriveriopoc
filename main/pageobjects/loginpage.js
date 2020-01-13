@@ -18,13 +18,11 @@ class LoginPage {
 
     }
 
-
     login() {
         this.userName.setValue("mercury");
         this.password.setValue("mercury");
         this.loginBtn.click();
     }
-
 }
 
 export default new LoginPage();

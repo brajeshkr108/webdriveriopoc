@@ -16,13 +16,11 @@ class DemoWebshopLoginpage {
         return $(".buttons .button-1.login-button")
     }
 
-
     openBrowser() {
         browser.url("http://demowebshop.tricentis.com/");
         browser.maximizeWindow();
 
     }
-
 
     loginWebshop() {
         this.loginlink.click();
@@ -31,7 +29,6 @@ class DemoWebshopLoginpage {
         this.loginBtn.click();
     }
 }
-
 export default new DemoWebshopLoginpage();
 
 
