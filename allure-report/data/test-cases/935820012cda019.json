@@ -1,0 +1,56 @@
+{
+  "uid" : "935820012cda019",
+  "name" : "Hook",
+  "fullName" : "Performing Demo Webshop validation: verify add-cart functionality.Hook",
+  "historyId" : "5b6e7f97752d4a8fdfb45272eb63c9e8",
+  "time" : {
+    "start" : 1578920417821,
+    "stop" : 1578920417822,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Performing Demo Webshop validation: verify add-cart functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing Demo Webshop validation: verify add-cart functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Performing Demo Webshop validation: verify add-cart functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "935820012cda019.json",
+  "parameterValues" : [ "chrome" ]
+}

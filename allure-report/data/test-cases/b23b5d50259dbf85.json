@@ -1,0 +1,56 @@
+{
+  "uid" : "b23b5d50259dbf85",
+  "name" : "Hook",
+  "fullName" : "Performing a login: Login with a dafault user.Hook",
+  "historyId" : "7a37205a724273a238a5d4d0b1bfdfa3",
+  "time" : {
+    "start" : 1578920399931,
+    "stop" : 1578920399939,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a login: Login with a dafault user"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a login: Login with a dafault user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Performing a login: Login with a dafault user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b23b5d50259dbf85.json",
+  "parameterValues" : [ "chrome" ]
+}

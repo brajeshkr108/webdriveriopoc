@@ -1,0 +1,131 @@
+{
+  "uid" : "279d759f775b5264",
+  "name" : "And User clicks on Shopping Cart",
+  "fullName" : "Performing Demo Webshop validation: verify add-cart functionality.And User clicks on Shopping Cart",
+  "historyId" : "3e4e1c56d16c40a4b6205502aae5170d",
+  "time" : {
+    "start" : 1578920427712,
+    "stop" : 1578920428814,
+    "duration" : 1102
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1578920427712,
+        "stop" : 1578920427720,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "52f5dfc2e8b20c0c",
+        "name" : "Request",
+        "source" : "52f5dfc2e8b20c0c.json",
+        "type" : "application/json",
+        "size" : 67
+      }, {
+        "uid" : "c01818535edaa865",
+        "name" : "Response",
+        "source" : "c01818535edaa865.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element/6005f9bd-815a-4630-8526-0c09eca15d6a/click",
+      "time" : {
+        "start" : 1578920427722,
+        "stop" : 1578920428310,
+        "duration" : 588
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1578920428310,
+        "stop" : 1578920428813,
+        "duration" : 503
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "3593b7051262a63f",
+        "name" : "Screenshot",
+        "source" : "3593b7051262a63f.png",
+        "type" : "image/png",
+        "size" : 357953
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Performing Demo Webshop validation: verify add-cart functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing Demo Webshop validation: verify add-cart functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "And User clicks on Shopping Cart"
+  }, {
+    "name" : "package",
+    "value" : "Performing Demo Webshop validation: verify add-cart functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "279d759f775b5264.json",
+  "parameterValues" : [ "chrome" ]
+}

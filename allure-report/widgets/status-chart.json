@@ -1,0 +1,151 @@
+[ {
+  "uid" : "7619684a13a30f17",
+  "name" : "When I log in with a dafault user",
+  "time" : {
+    "start" : 1578920403110,
+    "stop" : 1578920410054,
+    "duration" : 6944
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c126d12f4441a692",
+  "name" : "And User clicks on the Add to cart",
+  "time" : {
+    "start" : 1578920427129,
+    "stop" : 1578920427711,
+    "duration" : 582
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "16b058a5453c3182",
+  "name" : "Given I am on the login page of Demo Webshop",
+  "time" : {
+    "start" : 1578920412419,
+    "stop" : 1578920415221,
+    "duration" : 2802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fd6b4c3adeb54166",
+  "name" : "When User clicks on the Books in the homepage",
+  "time" : {
+    "start" : 1578920418914,
+    "stop" : 1578920423953,
+    "duration" : 5039
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d7cc102234167",
+  "name" : "And User clicks on the first item",
+  "time" : {
+    "start" : 1578920423953,
+    "stop" : 1578920427129,
+    "duration" : 3176
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "279d759f775b5264",
+  "name" : "And User clicks on Shopping Cart",
+  "time" : {
+    "start" : 1578920427712,
+    "stop" : 1578920428814,
+    "duration" : 1102
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ffe7fe6dc4b43d93",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1578920410547,
+    "stop" : 1578920410547,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7172029197463970",
+  "name" : "Given I am on the login page",
+  "time" : {
+    "start" : 1578920399943,
+    "stop" : 1578920403110,
+    "duration" : 3167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85d67f1229c42999",
+  "name" : "Then I shall be on the Flight Finder page",
+  "time" : {
+    "start" : 1578920410054,
+    "stop" : 1578920410547,
+    "duration" : 493
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1924779dcfb40321",
+  "name" : "Given I am on the login page of Demo Webshop",
+  "time" : {
+    "start" : 1578920417822,
+    "stop" : 1578920418914,
+    "duration" : 1092
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4596527589a62e83",
+  "name" : "Then items should added to the shopping cart",
+  "time" : {
+    "start" : 1578920428815,
+    "stop" : 1578920429291,
+    "duration" : 476
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6bee601773d5e8fd",
+  "name" : "When I log in with a valid user",
+  "time" : {
+    "start" : 1578920415221,
+    "stop" : 1578920417313,
+    "duration" : 2092
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c44064e51a7bb2e8",
+  "name" : "Then I shall be on the Demo Webshop home page",
+  "time" : {
+    "start" : 1578920417313,
+    "stop" : 1578920417813,
+    "duration" : 500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f41349fb77ac7e1",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1578920417813,
+    "stop" : 1578920417813,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "587cc12b53ddd0be",
+  "name" : "Hook",
+  "time" : {
+    "start" : 1578920429291,
+    "stop" : 1578920429291,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

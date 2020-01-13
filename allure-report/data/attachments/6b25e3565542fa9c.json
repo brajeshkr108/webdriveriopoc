@@ -1,0 +1,4 @@
+{
+  "using": "css selector",
+  "value": "div.product-grid div.item-box:nth-child(1) div.product-item div.picture a:nth-child(1) > img:nth-child(1)"
+}

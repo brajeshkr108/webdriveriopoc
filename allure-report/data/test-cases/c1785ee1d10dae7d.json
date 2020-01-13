@@ -1,0 +1,56 @@
+{
+  "uid" : "c1785ee1d10dae7d",
+  "name" : "Hook",
+  "fullName" : "Performing Demo Webshop validation: Login with a valid user.Hook",
+  "historyId" : "8b35f878373f18b9dc0e5480ec63e016",
+  "time" : {
+    "start" : 1578920412411,
+    "stop" : 1578920412416,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Performing Demo Webshop validation: Login with a valid user"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing Demo Webshop validation: Login with a valid user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Performing Demo Webshop validation: Login with a valid user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c1785ee1d10dae7d.json",
+  "parameterValues" : [ "chrome" ]
+}

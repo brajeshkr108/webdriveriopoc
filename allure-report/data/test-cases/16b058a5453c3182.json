@@ -1,0 +1,131 @@
+{
+  "uid" : "16b058a5453c3182",
+  "name" : "Given I am on the login page of Demo Webshop",
+  "fullName" : "Performing Demo Webshop validation: Login with a valid user.Given I am on the login page of Demo Webshop",
+  "historyId" : "e2712adda3d7ab2fe11abebd5874a54f",
+  "time" : {
+    "start" : 1578920412419,
+    "stop" : 1578920415221,
+    "duration" : 2802
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "POST /session/:sessionId/url",
+      "time" : {
+        "start" : 1578920412422,
+        "stop" : 1578920414479,
+        "duration" : 2057
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "d69141fe1cff5f0f",
+        "name" : "Request",
+        "source" : "d69141fe1cff5f0f.json",
+        "type" : "application/json",
+        "size" : 48
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/window/maximize",
+      "time" : {
+        "start" : 1578920414479,
+        "stop" : 1578920414651,
+        "duration" : 172
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "e284cf32d66a9407",
+        "name" : "Response",
+        "source" : "e284cf32d66a9407.json",
+        "type" : "application/json",
+        "size" : 57
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1578920414652,
+        "stop" : 1578920415220,
+        "duration" : 568
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "bf40df54f671106b",
+        "name" : "Screenshot",
+        "source" : "bf40df54f671106b.png",
+        "type" : "image/png",
+        "size" : 334361
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Performing Demo Webshop validation: Login with a valid user"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing Demo Webshop validation: Login with a valid user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on the login page of Demo Webshop"
+  }, {
+    "name" : "package",
+    "value" : "Performing Demo Webshop validation: Login with a valid user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "16b058a5453c3182.json",
+  "parameterValues" : [ "chrome" ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "587cc12b53ddd0be",
+  "name" : "Hook",
+  "fullName" : "Performing Demo Webshop validation: verify add-cart functionality.Hook",
+  "historyId" : "5b6e7f97752d4a8fdfb45272eb63c9e8",
+  "time" : {
+    "start" : 1578920429291,
+    "stop" : 1578920429291,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Performing Demo Webshop validation: verify add-cart functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing Demo Webshop validation: verify add-cart functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Hook"
+  }, {
+    "name" : "package",
+    "value" : "Performing Demo Webshop validation: verify add-cart functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "935820012cda019",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578920417821,
+        "stop" : 1578920417822,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "587cc12b53ddd0be.json",
+  "parameterValues" : [ "chrome" ]
+}

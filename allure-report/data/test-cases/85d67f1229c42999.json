@@ -1,0 +1,158 @@
+{
+  "uid" : "85d67f1229c42999",
+  "name" : "Then I shall be on the Flight Finder page",
+  "fullName" : "Performing a login: Login with a dafault user.Then I shall be on the Flight Finder page",
+  "historyId" : "bdfedb3ccd5822a05e5616259e46db21",
+  "time" : {
+    "start" : 1578920410054,
+    "stop" : 1578920410547,
+    "duration" : 493
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "GET /session/:sessionId/url",
+      "time" : {
+        "start" : 1578920410054,
+        "stop" : 1578920410059,
+        "duration" : 5
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "763af2b2b2aafca",
+        "name" : "Response",
+        "source" : "763af2b2b2aafca.json",
+        "type" : "application/json",
+        "size" : 92
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "POST /session/:sessionId/element",
+      "time" : {
+        "start" : 1578920410059,
+        "stop" : 1578920410069,
+        "duration" : 10
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "79a852a6a66cefb7",
+        "name" : "Request",
+        "source" : "79a852a6a66cefb7.json",
+        "type" : "application/json",
+        "size" : 66
+      }, {
+        "uid" : "9f3d21dd6317c07d",
+        "name" : "Response",
+        "source" : "9f3d21dd6317c07d.json",
+        "type" : "application/json",
+        "size" : 83
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/element/3aa6b590-5ae4-4cfb-8ae9-68d41542576c/text",
+      "time" : {
+        "start" : 1578920410071,
+        "stop" : 1578920410082,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "8b741785c79bfd05",
+        "name" : "Response",
+        "source" : "8b741785c79bfd05.json",
+        "type" : "application/json",
+        "size" : 7
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "GET /session/:sessionId/screenshot",
+      "time" : {
+        "start" : 1578920410083,
+        "stop" : 1578920410545,
+        "duration" : 462
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "66ec4f532436f250",
+        "name" : "Screenshot",
+        "source" : "66ec4f532436f250.png",
+        "type" : "image/png",
+        "size" : 374549
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 5,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Performing a login: Login with a dafault user"
+  }, {
+    "name" : "testClass",
+    "value" : "Performing a login: Login with a dafault user"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I shall be on the Flight Finder page"
+  }, {
+    "name" : "package",
+    "value" : "Performing a login: Login with a dafault user"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "85d67f1229c42999.json",
+  "parameterValues" : [ "chrome" ]
+}
