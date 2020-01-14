@@ -7,12 +7,12 @@
 	wdio.conf.js
 	package.json
 	
-	main -> this folder will contain all the Page Objects and common utils.
+	main -> This folder will contain all the Page Objects and common utils.
 	pageobjects -> All the WebElements locator and related UI action method is defined in the corresponding page objects class of pageobjects folder
 	utils -> here we can define all the common utility methods.
 
 
-	test -> this folder consists of :
+	test -> This folder consists of below subfolder :
 	features -> All the required feature is defined in the corresponding feature file
 	resources -> All the external test data can be defined here based on the requirement.
 	stepDefination -> All the step definition files placed in the corresponding stepdef.js file under the stepDefination folder.
