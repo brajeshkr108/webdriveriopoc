@@ -1,11 +1,11 @@
 # webdriveriopoc
 The details about the project structure can be found here:
 below is the folder structure of the project:
-main
-test
-Reports
-wdio.conf.js
-package.json
+main,
+test,
+Reports,
+wdio.conf.js,
+package.json,
 
 main -> this folder will contain all the Page Objects and common utils.
 pageobjects -> All the WebElements locator and related UI action method is defined in the corresponding page objects class of pageobjects folder
